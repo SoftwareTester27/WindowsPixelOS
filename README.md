@@ -4,7 +4,7 @@ Tired of your Windows 10/11 desktop feeling outdated? Discover how to effortless
 
 Imagine swapping your bland blues for dynamic, rounded corners, pill-shaped icons, and that fresh Google Pixel vibe. This guide turns your PC into a mini Android wonderland without the hassle – just pure desktop glow-up magic.
 
-![Before and After](before-after.gif)  
+![A preview](Screenshot.png)  
 *(Watch your desktop transform in seconds!)*
 
 ## 🌟 Quick PixelOS Transformation
@@ -19,7 +19,7 @@ Getting started is a breeze – no fancy hardware required. Here's the basics:
 
 - **Windows 10 or 11**: Already on your machine? You're set!
 - **Admin access**: For installing themes and tweaks (ask if it's a work PC).
-- **Free tools**: Download [Rainmeter](https://www.rainmeter.net/) for widgets and [Material Design Icons](https://github.com/google/material-design-icons) pack (or search for "PixelOS icons Windows").
+- **Free tools**: Download [Rainmeter](https://www.rainmeter.net/) for widgets and [MD3 Rainmeter Skin](https://github.com/Runixe786/MD3-Windows/) pack.
 - **Backup your settings**: Quick tip – go to Settings > Accounts > Sync your settings, or screenshot your current desktop. Takes 1 minute, saves headaches.
 
 That's it! All tools are lightweight and safe from official sources.
@@ -28,8 +28,8 @@ That's it! All tools are lightweight and safe from official sources.
 
 Follow these numbered steps for your PixelOS makeover. Each one's GUI-only – right-clicks and downloads, no commands. Total: 20-30 minutes.
 
-1. **Set the Foundation: Dynamic Wallpaper (2 mins)**  
-   Right-click your desktop > Personalize > Background > Choose "Slideshow" and add PixelOS wallpapers. Download free ones from [here](https://wallpaperscraft.com/tag/pixel/). Let it auto-cycle for that Material You color shift.  
+1. **Set the Foundation: Install Rainmeter (2 mins)**  
+   
    ![Wallpaper Setup](step1-screenshot.png)
 
 2. **Install Pixel Icons (5 mins)**  
